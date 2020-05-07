@@ -1,0 +1,7 @@
+var a = 5;
+
+var b = 5;
+
+//Below is just something extra I've learned elsewhere lol!
+a + b;
+10
